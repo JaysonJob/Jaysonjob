@@ -17,8 +17,8 @@ SQL, Python (Currently studying advanced pyton)
 MySQL, PostgreSQL
 
 **📊 Visualization & BI 
-- **Power BI** — Expert level (Dashboards,DAX,Data Modeling,Row-level security)  
-- **Excel** — Advanced (Pivot Tables,Power Query,Formulas,Charts,Macros)  
+- **Power BI** - Expert level (Dashboards,DAX,Data Modeling,Row-level security)  
+- **Excel** - Advanced (Pivot Tables,Power Query,Formulas,Charts,Macros)  
 
 
 **DAX Proficiency:**  
