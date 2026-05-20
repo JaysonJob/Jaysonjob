@@ -22,7 +22,7 @@ MySQL, PostgreSQL
 
 
 **DAX Proficiency:**  
-CALCULATE,FILTER,SUMX,ALL,RELATED,TIME INTELLIGENCE (YTD,QTD,MTD,SAMEPERIOD LAST YEAR)
+calculate,filter,SUMX,ALL,related,Time Inteligence (YTD,QTD,MTD,SAME PERIOD LAST YEAR)
 
 **Data Workflow:**  
 Data Cleaning,Exploratory Data Analysis (EDA),Dashboard Design and KPI Tracking
@@ -33,8 +33,7 @@ Git, GitHub,Jupyter Notebook
 ---
 
 ### 📫 Connect with Me
-
-- **Portfolio:** jaysonkibet.dev  
+ 
 - **LinkedIn:** linkedin.com/in/jaysonkibet    
 - **Email:** jaysojobkibet@gmail.com 
 
