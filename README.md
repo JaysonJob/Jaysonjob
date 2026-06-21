@@ -34,7 +34,7 @@ Git, GitHub,Jupyter Notebook
 
 ### 📫 Connect with Me
  
-- **LinkedIn:** linkedin.com/in/jaysonkibet    
+- **LinkedIn:** [linkedin.com/in/jaysonkibet  ](https://www.linkedin.com/in/jayson-kibet-/)  
 - **Email:** jaysojobkibet@gmail.com 
 
 > *"Raw data → Clean insights → Powerful dashboards → Better decisions."*
