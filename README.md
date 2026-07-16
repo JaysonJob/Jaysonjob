@@ -4,7 +4,6 @@
 
 - 💡 Passionate about transforming messy,raw data into clean and  meaningful dashboards.
 - ❤️ I thrive in data cleaning,exploratory analysis and visualization.
-- ⚙️ Currently exploring Advanced Python for Data Analysis (Pandas,NumPy,Matplotlib).
 
 ---
 
