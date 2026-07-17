@@ -10,7 +10,7 @@
 ### 🛠️ Technologies & Tools I Use
 
 **Languages:**  
-SQL, Python (Currently studying advanced pyton)
+SQL, Python (pandas and numpy)
 
 **Databases:**  
 MySQL, PostgreSQL
