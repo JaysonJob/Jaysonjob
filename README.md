@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jayson Kibet! 📊
 
-📈 **Data Analyst | Turning Raw Data into Actionable Insights**
+📈 **Data Analyst 2yrs experience | Turning Raw Data into Actionable Insights**
 
 - 💡 Passionate about transforming messy,raw data into clean and  meaningful dashboards.
 - ❤️ I thrive in data cleaning,exploratory analysis and visualization.
